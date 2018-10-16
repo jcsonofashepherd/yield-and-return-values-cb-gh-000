@@ -1,7 +1,7 @@
 # Code Along: Yielding and Return Values
 
 
-## Objectives
+## Objective
 
 1. Understand how to control the return value of a method that uses `yield`.
 2. Gain more practice with the `yield` keyword and blocks.
